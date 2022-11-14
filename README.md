@@ -28,6 +28,7 @@ To run script which generates CSV file from API , type following:
 ` python3 randomuser.py`
 
 A new CSV file will be generated named ` users.csv` in the installation folder.
+Ctrl + C to terminate the script.
 
 <hr>
 
