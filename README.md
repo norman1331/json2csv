@@ -33,8 +33,10 @@ A new CSV file will be generated named ` users.csv` in the installation folder.
 
 To read `users.csv` file and generate individual entry on terminal, type the following:
 
-` python3 searchcsv.py`
+` python3 searchcsv.py`![Screenshot from 2022-11-14 21-26-11](https://user-images.githubusercontent.com/85785100/201726987-ac4bc83f-c1b3-4985-b61d-5f505b44b121.png)
+
 The result will be displayed if the id is valid and present in csv.
+
 
 <hr>
 To run script which generates a sorted CSV file on FirstName basis, type following:
@@ -43,11 +45,17 @@ To run script which generates a sorted CSV file on FirstName basis, type followi
 
 A new CSV file will be generated named `users-sorted.csv` in the installation folder.
 
+
 ## Output:
 
 - These scripts generates two <b>CSV</b> files:
   (a) `users.csv`
+  ![Screenshot from 2022-11-14 21-23-12](https://user-images.githubusercontent.com/85785100/201726684-3ff48add-a52c-467f-acb5-e9a0ab004932.png)
+  
   (b) `users-sorted.csv`
+  ![Screenshot from 2022-11-14 21-27-08](https://user-images.githubusercontent.com/85785100/201727068-bd84ac4a-a3db-4c81-bfdf-aaa33d6c6cfd.png)
+
+  
 
 ## License & Versioning
 
