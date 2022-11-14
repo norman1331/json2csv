@@ -54,6 +54,7 @@ A new CSV file will be generated named `users-sorted.csv` in the installation fo
   
   (b) `users-sorted.csv`
   ![Screenshot from 2022-11-14 21-27-08](https://user-images.githubusercontent.com/85785100/201727068-bd84ac4a-a3db-4c81-bfdf-aaa33d6c6cfd.png)
+  Same samples are uploaded with scripts.
 
   
 
